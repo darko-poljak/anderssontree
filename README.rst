@@ -1,5 +1,5 @@
-AATree Package
-===================
+AnderssonTree Package
+=====================
 
 Abstract
 ========
