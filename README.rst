@@ -77,7 +77,7 @@ Documentation
 
 this README.rst, code itself, docstrings
 
-bintrees can be found on github.com at:
+anderssontree can be found on github.com at:
 
 https://github.com/darko-poljak/andersontree
 
